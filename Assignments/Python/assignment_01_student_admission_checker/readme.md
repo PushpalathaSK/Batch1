@@ -36,3 +36,11 @@ The admission team wants a simple Python application that collects student detai
 - Python Program
 - Screenshot of Output
 - GitHub Repository Link
+
+Anitha-Batch1/
+│
+├── python/
+│   └── assignment_01_student_admission_checker/
+│       ├── admission_checker.py
+│       ├── output.png
+│       └── README.md
